@@ -1,0 +1,3 @@
+[submodule "morphic.js"]
+	path = morphic.js
+	url = https://github.com/jmoenig/morphic.js.git
